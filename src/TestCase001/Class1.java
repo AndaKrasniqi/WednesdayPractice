@@ -6,4 +6,7 @@ public class Class1 {
 
     //added my branch
     //my changes
+    //i added my codes
+    // make a change
+
 }

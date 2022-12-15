@@ -6,5 +6,5 @@ public class Class1 {
 
     //added my branch
 
-    //day2 Meri's changes
+
 }

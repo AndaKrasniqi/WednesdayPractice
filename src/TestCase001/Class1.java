@@ -6,4 +6,6 @@ public class Class1 {
 
     //added my branch
     //my changes
+
+    //i changed something
 }
